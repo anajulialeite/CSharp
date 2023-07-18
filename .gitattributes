@@ -1,2 +1,62 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Operadores
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Programa que efetua todas as operações matemáticas
+            //Soma
+            Console.WriteLine("Operadores");
+            Console.Write("10 + 10 = ");
+            Console.WriteLine(10+10);
+            
+            //Subtração
+            Console.Write("10 - 10 = ");
+            Console.WriteLine(10 - 10);
+
+            //Multiplicação
+            Console.Write("10 * 10 = ");
+            Console.WriteLine(10 * 10);
+
+            //Divisão
+            Console.Write("10 / 10 = ");
+            Console.WriteLine(10 / 10);
+
+            //Porcentagem (resto)
+            Console.Write("10 % 10 = ");
+            Console.WriteLine(10 % 10);
+
+            //Menor
+            Console.Write("10 < 10 = ");
+            Console.WriteLine(10 < 10);
+
+            //Menor Igual
+            Console.Write("10 <= 10 = ");
+            Console.WriteLine(10 <= 10);
+
+            //Maior
+            Console.Write("10 > 10 = ");
+            Console.WriteLine(10 > 10);
+
+            //Maior Igual
+            Console.Write("10 >= 10 = ");
+            Console.WriteLine(10 >= 10);
+
+            //Igual
+            Console.Write("10 == 10 = ");
+            Console.WriteLine(10 == 10);
+
+            //Diferente
+            Console.Write("10 != 10 = ");
+            Console.WriteLine(10 != 10);
+            
+            Console.ReadLine();
+        }
+    }
+}
