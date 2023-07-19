@@ -1,0 +1,8 @@
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\bin\Debug\TabuadaDo2.exe.config
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\bin\Debug\TabuadaDo2.exe
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\bin\Debug\TabuadaDo2.pdb
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.exe
+C:\Users\Master\source\repos\Aula03\TabuadaDo2\obj\Debug\TabuadaDo2.pdb
