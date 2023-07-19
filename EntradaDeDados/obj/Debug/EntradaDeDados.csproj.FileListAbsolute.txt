@@ -1,0 +1,8 @@
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\bin\Debug\EntradaDeDados.exe
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\obj\Debug\EntradaDeDados.exe
+C:\Users\Master\source\repos\Aula05\EntradaDeDados\obj\Debug\EntradaDeDados.pdb
