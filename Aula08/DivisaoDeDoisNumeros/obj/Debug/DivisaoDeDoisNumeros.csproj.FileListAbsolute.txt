@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\bin\Debug\DivisaoDeDoisNumeros.exe.config
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\bin\Debug\DivisaoDeDoisNumeros.exe
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\bin\Debug\DivisaoDeDoisNumeros.pdb
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\obj\Debug\DivisaoDeDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\obj\Debug\DivisaoDeDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\obj\Debug\DivisaoDeDoisNumeros.exe
+C:\Users\Master\source\repos\Aula08\DivisaoDeDoisNumeros\obj\Debug\DivisaoDeDoisNumeros.pdb
