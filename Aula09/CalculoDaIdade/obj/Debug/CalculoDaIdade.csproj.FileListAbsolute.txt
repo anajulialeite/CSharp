@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\bin\Debug\CalculoDaIdade.exe.config
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\bin\Debug\CalculoDaIdade.exe
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\bin\Debug\CalculoDaIdade.pdb
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.exe
+C:\Users\Master\source\repos\Aula09\CalculoDaIdade\obj\Debug\CalculoDaIdade.pdb
