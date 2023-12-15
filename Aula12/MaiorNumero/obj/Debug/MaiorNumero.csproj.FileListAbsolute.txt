@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Aula12\MaiorNumero\bin\Debug\MaiorNumero.exe.config
+C:\Users\Master\source\repos\Aula12\MaiorNumero\bin\Debug\MaiorNumero.exe
+C:\Users\Master\source\repos\Aula12\MaiorNumero\bin\Debug\MaiorNumero.pdb
+C:\Users\Master\source\repos\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Aula12\MaiorNumero\obj\Debug\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Aula12\MaiorNumero\obj\Debug\MaiorNumero.exe
+C:\Users\Master\source\repos\Aula12\MaiorNumero\obj\Debug\MaiorNumero.pdb
