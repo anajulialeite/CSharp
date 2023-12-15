@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\bin\Debug\NumeroParOuImpar.exe.config
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\bin\Debug\NumeroParOuImpar.exe
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\bin\Debug\NumeroParOuImpar.pdb
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\obj\Debug\NumeroParOuImpar.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\obj\Debug\NumeroParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\obj\Debug\NumeroParOuImpar.exe
+C:\Users\Master\source\repos\Aula10\NumeroParOuImpar\obj\Debug\NumeroParOuImpar.pdb
