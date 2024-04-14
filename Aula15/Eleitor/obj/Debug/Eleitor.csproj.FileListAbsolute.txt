@@ -1,0 +1,7 @@
+C:\Users\anaju\source\repos\Aula15\Eleitor\bin\Debug\Eleitor.exe.config
+C:\Users\anaju\source\repos\Aula15\Eleitor\bin\Debug\Eleitor.exe
+C:\Users\anaju\source\repos\Aula15\Eleitor\bin\Debug\Eleitor.pdb
+C:\Users\anaju\source\repos\Aula15\Eleitor\obj\Debug\Eleitor.csproj.AssemblyReference.cache
+C:\Users\anaju\source\repos\Aula15\Eleitor\obj\Debug\Eleitor.csproj.CoreCompileInputs.cache
+C:\Users\anaju\source\repos\Aula15\Eleitor\obj\Debug\Eleitor.exe
+C:\Users\anaju\source\repos\Aula15\Eleitor\obj\Debug\Eleitor.pdb
