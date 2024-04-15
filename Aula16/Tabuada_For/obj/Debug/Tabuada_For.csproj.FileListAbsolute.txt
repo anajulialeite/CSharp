@@ -1,0 +1,7 @@
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\bin\Debug\Tabuada_For.exe.config
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\bin\Debug\Tabuada_For.exe
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\bin\Debug\Tabuada_For.pdb
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\obj\Debug\Tabuada_For.csproj.AssemblyReference.cache
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\obj\Debug\Tabuada_For.csproj.CoreCompileInputs.cache
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\obj\Debug\Tabuada_For.exe
+C:\Users\anaju\source\repos\Aula16\Tabuada_For\obj\Debug\Tabuada_For.pdb
