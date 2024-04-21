@@ -1,0 +1,7 @@
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\bin\Debug\NumeroPrimo.exe.config
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\bin\Debug\NumeroPrimo.exe
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\bin\Debug\NumeroPrimo.pdb
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.exe
+C:\Users\anaju\source\repos\Danilo Filitto\Aula19\NumeroPrimo\obj\Debug\NumeroPrimo.pdb
