@@ -1,0 +1,7 @@
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\bin\Debug\TextReader.exe.config
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\bin\Debug\TextReader.exe
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\bin\Debug\TextReader.pdb
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\obj\Debug\TextReader.csproj.AssemblyReference.cache
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\obj\Debug\TextReader.csproj.CoreCompileInputs.cache
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\obj\Debug\TextReader.exe
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 22\TextReader\obj\Debug\TextReader.pdb
