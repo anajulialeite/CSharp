@@ -1,0 +1,7 @@
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\bin\Debug\FuncaoMetodos.exe.config
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\bin\Debug\FuncaoMetodos.exe
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\bin\Debug\FuncaoMetodos.pdb
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\obj\Debug\FuncaoMetodos.csproj.AssemblyReference.cache
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\obj\Debug\FuncaoMetodos.csproj.CoreCompileInputs.cache
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\obj\Debug\FuncaoMetodos.exe
+C:\Users\anaju\source\repos\Danilo Filitto\Aula 23\FuncaoMetodos\obj\Debug\FuncaoMetodos.pdb
