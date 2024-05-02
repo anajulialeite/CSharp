@@ -1,7 +1,0 @@
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\obj\Debug\Aula23.csproj.AssemblyReference.cache
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\obj\Debug\Aula23.csproj.CoreCompileInputs.cache
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\bin\Debug\Aula23.exe.config
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\bin\Debug\Aula23.exe
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\bin\Debug\Aula23.pdb
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\obj\Debug\Aula23.exe
-C:\Users\anaju\source\repos\Danilo Filitto\Aula23\Aula23\obj\Debug\Aula23.pdb
