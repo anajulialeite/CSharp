@@ -39,7 +39,9 @@ namespace JogoAdvinhacao
                 //escolher a pergunta
                 Random rand = new Random();
                 index = rand.Next(0,perguntas.Length); //dentro da faixa de valores do array 0.. tamanho -1
+                Console.ForegroundColor = ConsoleColor.DarkBlue;
                 Console.WriteLine("Pergunta: {0}", perguntas[index]);
+                Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("resposta: ");
                 resposta = Console.ReadLine();
                 if(resposta.ToUpper() != respostas[index].ToUpper())
