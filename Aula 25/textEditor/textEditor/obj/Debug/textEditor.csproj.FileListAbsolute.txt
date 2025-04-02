@@ -1,0 +1,7 @@
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\bin\Debug\textEditor.exe.config
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\bin\Debug\textEditor.exe
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\bin\Debug\textEditor.pdb
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\obj\Debug\textEditor.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\obj\Debug\textEditor.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\obj\Debug\textEditor.exe
+C:\Users\Master\source\repos\Danilo Filitto\Aula 20\textEditor\textEditor\obj\Debug\textEditor.pdb

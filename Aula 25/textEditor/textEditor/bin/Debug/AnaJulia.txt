@@ -1,0 +1,5 @@
+Olá, mundo!!!!!
+Me chamo Ana Júlia e tenho 32 anos e sou estudante de Sistema de Informação.
+Hoje eu criei esse arquivo de texto para mostrar no meu programa menu que ele funciona!
+Viu que interessante? 
+Até a próxima.
