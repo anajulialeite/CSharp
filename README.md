@@ -8,4 +8,4 @@ OBS: As aulas 1, 3, 4, 5, 6 e 7 eu mandei o arquivo somente no formato sln e ele
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
