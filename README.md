@@ -1,4 +1,4 @@
-# CSharp - C#
+# CSharp
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" align="left" width="150" /></div>
 
